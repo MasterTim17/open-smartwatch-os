@@ -20,6 +20,8 @@
 #define TFT_LED 9
 #endif
 
+#define TFT_TOUCH_INT 6
+
 #define SD_CS 4
 // SD_MISO 19
 // for SCK, MOSI see TFT
